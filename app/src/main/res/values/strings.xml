@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OneNet_MQTT</string>
+    <string name="led_status">&#xe6d9;</string>
+</resources>
